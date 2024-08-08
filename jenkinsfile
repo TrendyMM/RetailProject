@@ -19,7 +19,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-               echo "deploy completed successfully"
+               echo "deploy completed successfully - second trial run"
             }
         }
   
